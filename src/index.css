@@ -11,3 +11,25 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.lidha-wrapper{
+  padding-top: 60px;
+}
+
+.icon-size-contact{
+  font-size: 25px;
+  border: 1px solid #efa861;
+  border-radius:25%;
+  -moz-border-radius:25%;
+  -webkit-border-radius:25%;
+  padding: 10px;
+  color: #efa861;
+}
+
+.lidha-color{
+  color: #efa861;
+}
+
+.lidha-contact-us{
+  margin-top: 50px;
+}
